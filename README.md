@@ -1,3 +1,4 @@
-﻿# enternal-sunshine-of-spotless-mind
+﻿# Beg'ubor xotiraning mangu quyoshi
 ![Banger](image/muz.png)
+
 
