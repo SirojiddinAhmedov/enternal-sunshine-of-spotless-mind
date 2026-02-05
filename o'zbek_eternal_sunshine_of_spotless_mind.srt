@@ -546,27 +546,27 @@ Mening bir-ikkita ishlarim bor edi,
 shunga men hozir...
 
 125
-00:09:10,792 --> 00:10:13,159
+00:09:10,792 --> 00:09:13,159
 - Oh! Uzr. Mayli.
 - Men yozishim kerak...
 
 126
-00:10:13,333 --> 00:10:15,053
+00:09:13,333 --> 00:09:15,053
 - Yo‘q, yo‘q. Shunchaki...
 - Albatta. Mayli, tushunarli.
 
 127
-00:10:15,208 --> 00:10:18,121
+00:09:15,208 --> 00:09:18,121
 - Shunchaki menda... bilasan-ku...
 - Bo‘pti.
 
 128
-00:10:18,292 --> 00:10:20,033
+00:09:18,292 --> 00:09:20,033
 - Iye! Hey!
 - O‘zingni ehtiyot qil unda.
 
 129
-00:10:20,208 --> 00:10:21,208
+00:09:20,208 --> 00:09:21,208
 [Joel] Xudoyim-ey!
 
 130
@@ -601,11 +601,11 @@ Suyak-suyagigacha o‘tib ketadi.
 - [Joel] Unaqa emasman.
 
 137
-00:10:48,458 --> 00:09:50,415
+00:09:48,458 --> 00:09:50,415
 O‘zing gap boshlading-ku. Esimdami?
 
 138
-00:10:50,583 --> 00:09:52,449
+00:09:50,583 --> 00:09:52,449
 Bu manyaklarning eng eski hiylasi.
 
 139
@@ -668,7 +668,7 @@ Kechir. Ahmoqona gap bo‘ldi.
 Xayrli tun, Joel.
 
 152
-00:11:34,208 --> 00:10:37,246
+00:10:34,208 --> 00:10:37,246
 [ayol qo‘shiq aytyapti]
 
 153
@@ -824,7 +824,7 @@ Keyin, u yerda...
 Yaxshi fikr.
 
 187
-00:11:34,792 --> 00:12:37,124
+00:12:34,792 --> 00:12:37,124
 Lekin men... men borishim kerak.
 Hozir.
 
