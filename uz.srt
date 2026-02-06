@@ -1970,7 +1970,7 @@ kundalik yozuvlari kerak bo‘ladi.
 Biz uyingizni...
 
 442
-00:29:01,500 --> 00:30:05,038
+00:29:01,500 --> 00:29:05,038
 hayotingizni Klementinadan
 butkul tozalashimiz kerak.
 
@@ -2345,12 +2345,12 @@ Xudoyim-ey.
 Deja vu.
 
 524
-00:32:24,958 --> 00:32:27,620
+00:33:24,958 --> 00:33:27,620
 Deja vu.
 Bu juda ham...
 
 525
-00:32:27,792 --> 00:33:30,512
+00:33:27,792 --> 00:33:30,512
 Yaxshi, boshlashimiz kerak.
 Agar muolajani...
 
